@@ -7,6 +7,9 @@
 # Nat Welch 
 ### <nat@natwelch.com>
 
+!Slide
+Examples:
+
 !SLIDE full-page
 ![alt text](dmpat.png "David Patierno")
 
@@ -20,10 +23,22 @@
 ![alt text](natw.png "Nat Welch")
 
 !SLIDE full-page
-![alt text](natw-github.png "Nat Welch / Code")
+![alt text](jeannie.png "Jeannie Nguyen")
 
 !SLIDE full-page
-![alt text](jeannie.png "Jeannie Nguyen")
+![alt text](natw-github.png "Nat Welch / Code")
+
+!SLIDE
+# The simplest page:
+### <>
+
+!SLIDE full-page
+![alt text](example.png "example")
+
+!SLIDE
+### Alright. Let's out our site online.
+## Two Options:
+### 1) Your CSC page or 2) GitHub pages
 
 !SLIDE
 # Thanks!
