@@ -7,8 +7,8 @@
 # Nat Welch
 ### <nat@natwelch.com>
 
-!Slide
-Examples:
+!SLIDE
+# Examples:
 
 !SLIDE full-page
 ![alt text](dmpat.png "David Patierno")
