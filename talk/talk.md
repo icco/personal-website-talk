@@ -36,7 +36,7 @@
 ![alt text](example.png "example")
 
 !SLIDE
-### Alright. Let's out our site online.
+### Alright. Let's put our site online.
 ## Two Options:
 ### 1) Your CSC page or 2) GitHub pages
 
