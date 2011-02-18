@@ -14,19 +14,25 @@
 ![alt text](dmpat.png "David Patierno")
 
 !SLIDE full-page
-![alt text](chrisg.png "Chris Gibson")
-
-!SLIDE full-page
-![alt text](hphan.png "Henry Phan")
+![alt text](dm-code.png "David Patierno")
 
 !SLIDE full-page
 ![alt text](natw.png "Nat Welch")
 
 !SLIDE full-page
+![alt text](natw-github.png "Nat Welch / Code")
+
+!SLIDE full-page
 ![alt text](jeannie.png "Jeannie Nguyen")
 
 !SLIDE full-page
-![alt text](natw-github.png "Nat Welch / Code")
+![alt text](jeannie-prj.png "Jeannie Nguyen")
+
+!SLIDE full-page
+![alt text](hphan.png "Henry Phan")
+
+!SLIDE full-page
+![alt text](chrisg.png "Chris Gibson")
 
 !SLIDE
 # The simplest page:
