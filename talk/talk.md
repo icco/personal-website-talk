@@ -29,10 +29,13 @@
 ![alt text](jeannie-prj.png "Jeannie Nguyen")
 
 !SLIDE full-page
+![alt text](chrisg.png "Chris Gibson")
+
+!SLIDE full-page
 ![alt text](hphan.png "Henry Phan")
 
 !SLIDE full-page
-![alt text](chrisg.png "Chris Gibson")
+![alt text](nick.png "Nicholas Artman")
 
 !SLIDE
 # The simplest page:
@@ -60,7 +63,7 @@
 !SLIDE
 # GitHub Pages
 
-!SLIDE 
+!SLIDE
 #### 1. Create a GitHub Account
 #### 1.5 follow the instructions to create an ssh key (<http://help.github.com/>)
 #### 2. Create a public repository named `user.github.com`.
@@ -74,17 +77,24 @@
 # git remote add origin git@github.com:user/user.github.com.git
 # git push origin master
 
+!SLIDE bullets
+# Other sites
+
+ * http://flavors.me
+ * http://about.me
+ * AWS EC2 Micro Instance
+
+!SLIDE full-page
+![alt text](eric.png "")
+
 !SLIDE
 # Closing Statements
 ## Represent yourself
 ## Feel free to ask for help
-## Keep it up to date (SE Code?)
+## Keep it up to date
 
 !SLIDE
-# Questions?
-
-!SLIDE
-# Thanks!
 ## The End.
-### slides: [natwelch.com/talks/personal-website-talk](http://natwelch.com/talks/personal-website-talk)
+# Questions?
+### slides: [natwelch.com/talks/personal](http://natwelch.com/talks/personal)
 
