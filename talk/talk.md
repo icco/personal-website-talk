@@ -38,6 +38,10 @@
 ![alt text](nick.png "Nicholas Artman")
 
 !SLIDE
+# Other examples
+### <http://pinboard.in/u:icco/t:personal/>
+
+!SLIDE
 # The simplest page:
 ### <https://github.com/icco/personal-website-talk/blob/master/example.html>
 
